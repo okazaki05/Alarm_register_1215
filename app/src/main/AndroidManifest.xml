@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Alarm_register">
         <activity
-            android:name=".MainActivity"
+            android:name=".Alarm_register"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
