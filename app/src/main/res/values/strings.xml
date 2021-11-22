@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">登録</string>
     <string name="text">7時10分</string>
+    <string name="textView4">名前</string>
+    <string name="textView5">ボイス</string>
+    <string name="button">戻る</string>
+    <string name="button2">保存</string>
+    <string name="switch1">スヌーズ</string>
 </resources>
