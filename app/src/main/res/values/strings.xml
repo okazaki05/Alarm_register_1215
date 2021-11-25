@@ -1,9 +1,19 @@
 <resources>
     <string name="app_name">登録</string>
-    <string name="text">7時10分</string>
-    <string name="textView4">名前</string>
-    <string name="textView5">ボイス</string>
     <string name="button">戻る</string>
     <string name="button2">保存</string>
+    <string name="button3">時間</string>
     <string name="switch1">スヌーズ</string>
+    <string name="editText1">名前</string>
+    <string name="spinner1">先生</string>
+    <string name="textView7">ボイス</string>
+
+    <string-array name="sp_teacher">
+        <item>小嶋</item>
+        <item>村井</item>
+        <item>松井</item>
+        <item>木村</item>
+    </string-array>
+
+
 </resources>
